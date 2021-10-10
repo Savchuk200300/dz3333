@@ -1,0 +1,13 @@
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/bin/Debug/netcoreapp3.1/dz3_2task.deps.json
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/bin/Debug/netcoreapp3.1/dz3_2task.runtimeconfig.json
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/bin/Debug/netcoreapp3.1/dz3_2task.runtimeconfig.dev.json
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/bin/Debug/netcoreapp3.1/dz3_2task.dll
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/bin/Debug/netcoreapp3.1/dz3_2task.pdb
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/obj/Debug/netcoreapp3.1/dz3_2task.csproj.AssemblyReference.cache
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/obj/Debug/netcoreapp3.1/dz3_2task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/obj/Debug/netcoreapp3.1/dz3_2task.AssemblyInfoInputs.cache
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/obj/Debug/netcoreapp3.1/dz3_2task.AssemblyInfo.cs
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/obj/Debug/netcoreapp3.1/dz3_2task.csproj.CoreCompileInputs.cache
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/obj/Debug/netcoreapp3.1/dz3_2task.dll
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/obj/Debug/netcoreapp3.1/dz3_2task.pdb
+/Users/maxsavchuk/Projects/dz3_2task/dz3_2task/obj/Debug/netcoreapp3.1/dz3_2task.genruntimeconfig.cache
